@@ -5,12 +5,17 @@ body{
     font-family: 'Koulen', cursive;
    
 }
+#icono{
+    width: 50%;
+    height: 20%;
+}
 
 .container{
     margin: auto;
     padding-top: 5%;
     text-align: center;
     align-items: center;
+    width: 100%;
     
 }
 h2{
@@ -23,7 +28,7 @@ h2{
 #button{
     background-color: #e39571;
     font-family: 'Koulen', cursive;
-    width: 10%;
+    width: 200px;
     cursor: pointer;
     outline: none;
     border: none;
