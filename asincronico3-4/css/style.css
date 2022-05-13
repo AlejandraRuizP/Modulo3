@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Koulen&family=PT+Serif:ital,wght@1,700&family=Press+Start+2P&family=Public+Sans:wght@200&family=Seymour+One&family=Source+Sans+Pro:wght@200&family=Titan+One&display=swap');
+
+body{
+    background-color: orangered;
+    font-family: 'Koulen', cursive;
+   
+}
+
+.container{
+    margin: auto;
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+    
+}
+h2{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    border: 2px black dashed;
+}
+
+#button{
+    background-color: #e39571;
+    font-family: 'Koulen', cursive;
+    width: 10%;
+    cursor: pointer;
+    outline: none;
+    border: none;
+
+}
+#button:hover {
+    background-color: #abbbc4;
+  }
